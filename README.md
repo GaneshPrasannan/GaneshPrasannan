@@ -34,6 +34,7 @@
         <img alt="CSS" src="https://img.shields.io/badge/CSS-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
         <img alt="Java" src="https://img.shields.io/badge/JavaScript-%23007396.svg?&style=for-the-badge&logo=javascript&logoColor=white"/><br>
         <img alt="PHP" src="https://img.shields.io/badge/PHP-%23007396.svg?&style=for-the-badge&logo=PHP&logoColor=white"/><br>
+        <img alt="Dart" src="https://img.shields.io/badge/Dart-%23007396.svg?&style=for-the-badge&logo=Dart&logoColor=white"/><br>
         <img alt="Git" src="https://img.shields.io/badge/Git-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white"/>
         <img alt="BASH" src="https://img.shields.io/badge/BASH-%234EAA25.svg?&style=for-the-badge&logo=gnubash&logoColor=white"/><br>
         <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%237952B3.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>

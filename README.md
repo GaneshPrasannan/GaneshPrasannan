@@ -7,8 +7,8 @@
       <img src="https://c.tenor.com/-z2KfO5zAckAAAAC/hello-there-baby-yoda.gif"> 
     </th>
     <th>
-      <h3>I am Ganesh Prasannan<br>I’m interested in Web Development, Python, and Martial Arts.</h3>
-      👀 I’m interested in Python, Maths and Martial Arts.<br><br>
+      <h3>I am Ganesh Prasannan<br>I’m interested in Python, PHP, Dart and Web Development.</h3>
+      👀 I’m interested in Python, PHP, Dart and Web Development.<br><br>
       🌱 I’m currently learning Data Science, AI/ML.<br><br>
       📫 Reach me through my website - https://ganeshprasannan.me/<br><br>
       😄 Pronouns: He/Him

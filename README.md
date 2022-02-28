@@ -9,7 +9,7 @@
     <th>
       <h3>I am Ganesh Prasannan<br>I’m interested in Python, PHP, Dart and Web Development.</h3>
       👀 I’m interested in Python, PHP, Dart and Web Development.<br><br>
-      🌱 I’m currently learning Flutter.<br><br>
+      🌱 I’m currently learning Dart.<br><br>
       📫 Reach me through my website - https://ganeshprasannan.me/<br><br>
       😄 Pronouns: He/Him
     </th>
